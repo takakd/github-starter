@@ -1,4 +1,4 @@
-# GitHub starter
+# Repository Title
 
 Short description here.
 

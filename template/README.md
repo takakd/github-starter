@@ -70,8 +70,6 @@ let generateProject = project => {
 
 ## Support
 
-Reach out to me at one of the following places!
-
 - Website at [Example](https://example.com)
 - Twitter at [@example](https://example.com)
 - Insert more social links here.
@@ -79,7 +77,7 @@ Reach out to me at one of the following places!
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © Me</a>.
+- Copyright 2020 © Me.
 
 -----
 
